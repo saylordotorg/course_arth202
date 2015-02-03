@@ -1,3 +1,9 @@
+---
+layout: default
+course: ARTH202
+course_fulltitle: "Art of Ancient Greece and Rome"
+course_description: "Exploration of the art of Classical Antiquity from the emergence of the Greek city-state to the expansion of Christianity in fourth-century Rome."
+---
 -   **Unit 1: Greek Art: Early Classical Antiquity**  
 
     *In this unit, we will study Greek art from 900 B.C. to the early

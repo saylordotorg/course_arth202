@@ -1,3 +1,9 @@
+---
+layout: default
+course: ARTH202
+course_fulltitle: "Art of Ancient Greece and Rome"
+course_description: "Exploration of the art of Classical Antiquity from the emergence of the Greek city-state to the expansion of Christianity in fourth-century Rome."
+---
 Course Syllabus for "ARTH202: Art of Ancient Greece and Rome"
 -------------------------------------------------------------
 
