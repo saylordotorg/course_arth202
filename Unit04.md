@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH202 - Art of Ancient Greece and Rome"
-course: ARTH202
-course_fulltitle: "Art of Ancient Greece and Rome"
-course_description: "Exploration of the art of Classical Antiquity from the emergence of the Greek city-state to the expansion of Christianity in fourth-century Rome."
+title: "ARTH202: Art of Ancient Greece and Rome"
+course_description: "An exploration of the art of Classical Antiquity from the emergence of the Greek city-state to the expansion of Christianity in fourth-century Rome."
+next: ../Unit05
+previous: ../Unit03
+bgimage: arth202.jpg
 ---
 -   **Unit 4: Rome: Art of the Etruscans and the Roman Republic**  
 
