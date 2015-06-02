@@ -112,3 +112,12 @@ to have assimilated before you take the Final Exam. You will need to
 take careful notes and spend time reviewing. The instructional boxes
 accompanying the links to the course resources will help you focus your
 study.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/arth202/Unit01/)
+- [Unit 2](https://legacy.saylor.org/arth202/Unit02/)
+- [Unit 3](https://legacy.saylor.org/arth202/Unit03/)
+- [Unit 4](https://legacy.saylor.org/arth202/Unit04/)
+- [Unit 5](https://legacy.saylor.org/arth202/Unit05/)
+- [Unit 6](https://legacy.saylor.org/arth202/Unit06/)
