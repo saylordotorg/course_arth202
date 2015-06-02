@@ -1,3 +1,11 @@
+---
+layout: default
+title: "ARTH202: Art of Ancient Greece and Rome"
+course_description: "An exploration of the art of Classical Antiquity from the emergence of the Greek city-state to the expansion of Christianity in fourth-century Rome."
+next: ../Unit06
+previous: ../Unit04
+bgimage: arth202.jpg
+---
 -   **Unit 5: Rome: The Empire**  
 
     *The expansion of Rome saw the emergence of new building

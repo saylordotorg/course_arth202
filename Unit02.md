@@ -1,3 +1,11 @@
+---
+layout: default
+title: "ARTH202: Art of Ancient Greece and Rome"
+course_description: "An exploration of the art of Classical Antiquity from the emergence of the Greek city-state to the expansion of Christianity in fourth-century Rome."
+next: ../Unit03
+previous: ../Unit01
+bgimage: arth202.jpg
+---
 -   **Unit 2: Greek Art: Classical Art, 480-323 B.C.**  
 
     *The period that produced what we now term “Greek Classical art”
