@@ -131,3 +131,4 @@ study.
 - [Unit 4](https://legacy.saylor.org/arth202/Unit04/)
 - [Unit 5](https://legacy.saylor.org/arth202/Unit05/)
 - [Unit 6](https://legacy.saylor.org/arth202/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH202/ARTH202-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH202/ARTH202-FinalExam-Answers.html)
