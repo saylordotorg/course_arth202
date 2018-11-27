@@ -84,7 +84,7 @@
 
         Link: SmartHistory.org: Dr. Beth Harris and Dr.
         Zucker’s “[Ancient Greece and
-        Rome](http://www.saylor.org/site/wp-content/uploads/2011/09/Ancient-Greece-and-Rome_1.pdf)”
+        Rome](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Ancient-Greece-and-Rome_1.pdf)”
         (HTML)  
            
          Instructions: Please read this short article in order to
@@ -105,7 +105,7 @@
         Link: Utah State University: Mark Damen’s “Ancient Literature
         and Language: [“A Brief History of Early Ancient Civilization:
         Historical Overview of Ancient Greece and
-        Rome”](http://www.saylor.org/site/wp-content/uploads/2011/09/A-Brief-History-of-Early-Ancient-Civilization_1.pdf) (PDF)  
+        Rome”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/A-Brief-History-of-Early-Ancient-Civilization_1.pdf) (PDF)  
            
          Instructions: Via the link above, please scroll down to and
         read the passage titled “Historical Overview of Ancient Greece
@@ -155,7 +155,7 @@
 
         Link: The Stoa Consortium: Kevin T. Glowacki’s “[The Ancient
         City of Athens: A Very Brief Outline of Greek History (to A.D. 
-        1453)](http://www.saylor.org/site/wp-content/uploads/2011/09/A-Very-Brief-Outline-of-Greek-History_1.pdf)”
+        1453)](https://resources.saylor.org/archived/wp-content/uploads/2011/09/A-Very-Brief-Outline-of-Greek-History_1.pdf)”
         (PDF)  
            
          Instructions: Please read this article for a brief outline of
@@ -177,9 +177,9 @@
 
         Link: Utah State University: Mark Damen’s “Chapter 3: [Ancient
         Literature and Language: An Introduction to Classical
-        Mythology](http://www.saylor.org/site/wp-content/uploads/2011/09/An-Introduction-to-Classical-Mythology_1.pdf)”
+        Mythology](https://resources.saylor.org/archived/wp-content/uploads/2011/09/An-Introduction-to-Classical-Mythology_1.pdf)”
         (HTML) and “Chapter 4: [Homer and *The
-        Iliad*](http://www.saylor.org/site/wp-content/uploads/2011/09/Homer-and-The-Iliad_1.pdf) (HTML)  
+        Iliad*](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Homer-and-The-Iliad_1.pdf) (HTML)  
            
          Instructions: Please read these two passages for an
         introduction to classical mythology and Homer’s *The Iliad*,
@@ -203,10 +203,10 @@
 
         Link: Connexions: Jack E. Maxfield’s “[A Comprehensive Outline
         of World History: Europe, 1500 to 1000 B.C.: Southern
-        Europe](http://www.saylor.org/site/wp-content/uploads/2011/09/m17857.pdf)”
+        Europe](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17857.pdf)”
         (PDF) and “[A Comprehensive Outline of World History: Europe:
         1000 to 700 B.C.: Southern
-        Europe](http://www.saylor.org/site/wp-content/uploads/2011/09/m17856.pdf)”
+        Europe](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17856.pdf)”
         (PDF)  
            
          Also available in: PDF, EPub Format and HTML (See links below).
@@ -251,7 +251,7 @@
         “[Lecture 3: The
         Geometric](http://www.youtube.com/watch?v=Kxb4ZaRKM6Q)”
         (YouTube) and The Saylor Foundation’s “[Gallery for Subunit
-        1.2.3](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-1.2.3-FINAL.pdf)”
+        1.2.3](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-1.2.3-FINAL.pdf)”
         (PDF)  
            
          Instructions: Please view Professor Pafford’s video lecture via
@@ -286,11 +286,11 @@
 
         Links: Connexions: Jack E. Maxfield’s “[A Comprehensive Outline
         of World History: Europe, 700 to 601 B.C.: Southern
-        Europe](http://www.saylor.org/site/wp-content/uploads/2011/09/m17855.pdf)”
+        Europe](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17855.pdf)”
         (PDF) and “[A Comprehensive Outline of World History: Europe:
         600 to 501 B.C.: Southern Europe: Eastern Mediterranean Islands,
         Greece, Upper
-        Balkans](http://www.saylor.org/site/wp-content/uploads/2011/09/m17854.pdf)”
+        Balkans](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17854.pdf)”
         (PDF)  
            
          Also available in: HTML and EPub (See links below)   
@@ -384,11 +384,11 @@
 
         Links: The Stoa Consortium: Kevin T.  Glowacki’s “[The Ancient
         City of Athens: The
-        Acropolis](http://www.saylor.org/site/wp-content/uploads/2011/09/The-Acropolis_1.pdf),”
+        Acropolis](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Acropolis_1.pdf),”
         (PDF) “[The Acropolis: General
-        Views](http://www.saylor.org/site/wp-content/uploads/2011/09/The-Acropolis-General-Views_1.pdf),”
+        Views](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Acropolis-General-Views_1.pdf),”
         (PDF) and “[The Archaic
-        Acropolis](http://www.saylor.org/site/wp-content/uploads/2011/09/The-Archaic-Acropolis_1.pdf)” 
+        Acropolis](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Archaic-Acropolis_1.pdf)” 
         (PDF)  
            
          Instructions: Read “The Ancient City of Athens: The Acropolis”
@@ -422,7 +422,7 @@
         Pafford’s “[Lecture 5: The Kouros: Walk Like an Egyptian, Only
         Naked](http://www.youtube.com/watch?v=hgQMgXMO1Gk)”
         (YouTube) and The Saylor Foundation’s “[Gallery for Subunit
-        1.5.1](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-1.5.1-FINAL.pdf)”
+        1.5.1](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-1.5.1-FINAL.pdf)”
         (PDF)  
            
          Instructions: This recording is part of a course on ancient
@@ -479,7 +479,7 @@
         Pafford’s “[Lecture 6: Korai, Nymphs, and Respectable
         Ladies](http://www.youtube.com/watch?v=vS8-hb2XsDI)”
         (YouTube) and The Saylor Foundation’s “[Gallery for Subunit
-        1.5.2](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-1.5.2-FINAL.pdf)”
+        1.5.2](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-1.5.2-FINAL.pdf)”
         (PDF)  
            
          Instructions: This recording is part of a course on ancient
@@ -584,7 +584,7 @@
         “[Lecture 8: The Aesthetics of Black
         Figure](http://www.youtube.com/watch?v=ZRvWTow_s9I)” and The
         Saylor Foundation’s “[Gallery for Subunit
-        1.6.3](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-1.6.3-FINAL.pdf)”
+        1.6.3](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-1.6.3-FINAL.pdf)”
         (PDF)  
            
          Instructions: This recording is part of a course on Ancient
@@ -727,9 +727,9 @@
     -   **Assessment: The Saylor Foundation’s “Quiz 1”**
 
         Link: The Saylor Foundation’s “[Quiz
-        1](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH202-Assessment-Quiz1-FINAL.pdf)”
+        1](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH202-Assessment-Quiz1-FINAL.pdf)”
         (PDF) and “[Quiz 1 Answer
-        Key](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH202-Assessment-Quiz1AnswerKey-FINAL.pdf)”
+        Key](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH202-Assessment-Quiz1AnswerKey-FINAL.pdf)”
         (PDF).  
            
          Instructions: Please take the above quiz.  Please answer the 15
@@ -740,9 +740,9 @@
     -   **Assessment: The Saylor Foundation's "Essay 1"**
 
         Link: The Saylor Foundation's "[Essay
-        1](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH202-Assessment-Essay1-FINAL.pdf)"
+        1](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH202-Assessment-Essay1-FINAL.pdf)"
         (PDF) and “[Essay 1 Answer
-        Key](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH202-Assessment-Essay1AnswerKey-FINAL.pdf)”
+        Key](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH202-Assessment-Essay1AnswerKey-FINAL.pdf)”
         (PDF).  
            
          Instructions: Please write a short critical essay discussing an
