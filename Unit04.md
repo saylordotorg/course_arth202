@@ -294,7 +294,7 @@ bgimage: arth202.jpg
         Tronchin’s “[Republican
         Art](http://www.archive.org/details/FrancescaTronchinDrTronchinslectureonRomanRepublicanart)”
         (MP3) and The Saylor Foundation’s “[Gallery for Subunit
-        4.3.3](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-4.3.3-FINAL.pdf)”
+        4.3.3](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH202-Gallery-Subunit-4.3.3-FINAL.pdf)”
         (PDF)  
            
          Instructions: Please go to the above webpage, and listen to

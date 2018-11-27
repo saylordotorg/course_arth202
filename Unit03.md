@@ -85,10 +85,10 @@ bgimage: arth202.jpg
         Links: Jack Maxfield’s “[A Comprehensive Outline of World
         History: Europe: 400 to 301 B.C.: Southern Europe: Eastern
         Mediterranean Islands, Greece, Upper
-        Balkans](http://www.saylor.org/site/wp-content/uploads/2011/09/m17851.pdf),”
+        Balkans](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17851.pdf),”
         (PDF) “[A Comprehensive Outline of World History: Europe: 300 to
         201 B.C.: Southern Europe: Greece, Upper
-        Balkans](http://www.saylor.org/site/wp-content/uploads/2011/09/m17849.pdf),”
+        Balkans](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17849.pdf),”
         (PDF)  
            
          Also available in: HTML, EPub (See links below)   
@@ -122,10 +122,10 @@ bgimage: arth202.jpg
         Links: Connexions: Jack E. Maxfield’s “[A Comprehensive Outline
         of World History: Europe: 200 to 101 B.C.: Southern Europe:
         Greece, Upper
-        Balkans](http://www.saylor.org/site/wp-content/uploads/2011/09/m17848.pdf),”
+        Balkans](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17848.pdf),”
         (PDF) “[A Comprehensive Outline of World History: Europe: 100
         B.C. to 0: Greece, Upper
-        Balkans](http://www.saylor.org/site/wp-content/uploads/2011/09/m17847.pdf)”
+        Balkans](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17847.pdf)”
         (PDF)  
            
          Also available in: HTML, EPub (See links below)   
@@ -159,16 +159,16 @@ bgimage: arth202.jpg
 
         Links: Connexions: Jack E. Jack Maxfield’s “[A Comprehensive
         Outline of World History: The Near East: 400 to 301
-        B.C.](http://www.saylor.org/site/wp-content/uploads/2011/09/m17972.pdf),”
+        B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17972.pdf),”
         (PDF) “[A Comprehensive Outline of World History: The Near East:
         300 to 201
-        B.C.](http://www.saylor.org/site/wp-content/uploads/2011/09/m17971.pdf),”
+        B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17971.pdf),”
         (PDF) “[A Comprehensive Outline of World History: The Near East:
         200-101
-        B.C.](http://www.saylor.org/site/wp-content/uploads/2011/09/m17970.pdf),”
+        B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17970.pdf),”
         (PDF) and “[A Comprehensive Outline of World History: The Near
         East: 100 B.C. to
-        0](http://www.saylor.org/site/wp-content/uploads/2011/09/m17969.pdf)”
+        0](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17969.pdf)”
         (PDF)  
            
          Also available in: PDF, EPub (See links below.)  
@@ -201,16 +201,16 @@ bgimage: arth202.jpg
 
         Links: Jack Mansfield’s “[A Comprehensive Outline of World
         History: Africa: 400 to 301
-        B.C.](http://www.saylor.org/site/wp-content/uploads/2011/09/m17735.pdf)”;
+        B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17735.pdf)”;
         (PDF) “[A Comprehensive  Outline  of World History: Africa: 300
         to 201
-        B.C.](http://www.saylor.org/site/wp-content/uploads/2011/09/m17734.pdf)”;
+        B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17734.pdf)”;
         (PDF) “[A Comprehensive Outline of World History: Africa: 200 to
         101
-        B.C.](http://www.saylor.org/site/wp-content/uploads/2011/09/m17733.pdf)”;
+        B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17733.pdf)”;
         (PDF) and “[A Comprehensive Outline of World History: Africa:
         100 B.C. to
-        0](http://www.saylor.org/site/wp-content/uploads/2011/09/m17732.pdf)”
+        0](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m17732.pdf)”
         (PDF)  
            
          Also available in: HTML, EPub (See links below.)  
